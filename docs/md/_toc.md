@@ -2,7 +2,13 @@
 
 > :Collapse label=Workshops
 > 
-> [Imaging & Video](/docs/workshops/imaging)
+> > :Collapse label=Imaging & Video
+> >
+> > [Convolución](/docs/workshops/convolution)
+> > [Blanco & Negro](/docs/workshops/byn)
+> > [Ascii Art](/docs/workshops/ascii)
+> > [Mosaico](/docs/workshops/mosaic)
+>
 > [Rendering](/docs/workshops/rendering)
 > [Algovis](/docs/workshops/algovis)
 > [Computer Graphics](/docs/workshops/cg)
@@ -18,6 +24,6 @@
 > [Libs](/docs/snippets/lib)
 > [Sound](/docs/snippets/sound)
 
-> :Collapse label=Team
+> :Collapse label=Members
 > 
-> [NN](/docs/team/nn)
+> [Nicolas Rodriguez Salguero](/docs/members/NicolasRS)
