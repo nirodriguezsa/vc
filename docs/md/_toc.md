@@ -26,4 +26,4 @@
 
 > :Collapse label=Members
 > 
-> [Nicolas Rodriguez Salguero](/docs/members/NicolasRS)
+> [Nicolas Rodriguez Salguero](/docs/team/NicolasRS)
