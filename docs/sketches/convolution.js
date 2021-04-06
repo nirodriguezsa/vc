@@ -25,13 +25,16 @@ function setup() {
 function draw() {
   // We're only going to process a portion of the image
   // so let's set the whole image as the background first
-  background(img);
-
+   background(img);
+  // const xstart = constrain(mouseX - w, 0, img.width);
+  // const ystart = constrain(mouseY - w, 0, img.height);
+  // const xend = constrain(mouseX + w, 0, img.width);
+  // const yend = constrain(mouseY + w, 0, img.height);
   // Calculate the small rectangle we will process
-  const xstart = constrain(mouseX - w/2, 0, img.width);
-  const ystart = constrain(mouseY - w/2, 0, img.height);
-  const xend = constrain(mouseX + w/2, 0, img.width);
-  const yend = constrain(mouseY + w/2, 0, img.height);
+  const xstart = 0;
+  const ystart = 0;
+  const xend =  img.width;
+  const yend = img.height;
   const matrixsize = 3;
 
   loadPixels();

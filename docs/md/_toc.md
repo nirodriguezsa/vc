@@ -27,3 +27,6 @@
 > :Collapse label=Members
 > 
 > [Nicolas Rodriguez Salguero](/docs/team/NicolasRS)
+> [Danny Esteban Garzón Melo](/docs/team/Danny)
+> [Mateo Aguilar Cardona](/docs/team/Mateo)
+> [Carlos Daniel Rincon Mora](/docs/team/CarlosRincon)
