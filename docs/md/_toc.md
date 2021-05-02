@@ -9,7 +9,10 @@
 > > [Ascii Art](/docs/workshops/ascii)
 > > [Mosaico](/docs/workshops/mosaic)
 >
-> [Rendering](/docs/workshops/rendering)
+> > :Collapse label=Rendering
+> >
+> > [Cuadrado rotando](/docs/workshops/rotate)
+>
 > [Algovis](/docs/workshops/algovis)
 > [Computer Graphics](/docs/workshops/cg)
 > [HCI](/docs/workshops/hci)
@@ -29,4 +32,3 @@
 > [Nicolas Rodriguez Salguero](/docs/team/NicolasRS)
 > [Carlos Daniel Rincon Mora](/docs/team/CarlosRincon)
 > [Mateo Aguilar Cardona](/docs/team/Mateo)
-> [Danny Esteban Garzón Melo](/docs/team/Danny)
